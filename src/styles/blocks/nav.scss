@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 16px;
+
+  &__logo-link {
+    display: flex;
+    filter: drop-shadow(0 0 19px #08f);
+
+    @include scale-on-hover($scale-phone);
+
+    @include on-tablet {
+      @include scale-on-hover($scale-tablet);
+    }
+  }
+}
