@@ -1,4 +1,10 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Creative Bakery Landing
+This landing about... cookies!!!
+<br>
+I love this landing, but I decided to add some new styles and effects, I hope it's not too much ;)
+<br>
+What I used here: SASS, SCSS, Stylelint, GRID, BEM, npm, Flexbox.
+You can run my project local, for this: you need to install node version v14.21, than install all packages via npm i, and run project with npm run start.
+<br>
+[WATCH DEMO HERE](https://willwildred.github.io/creativeBakery/)
+[AND CHECK OUT DESIGN HERE](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?type=design&node-id=11342-1117&mode=design&t=Mda1Ego5AsrGKb9J-0)
